@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.black-overlay{
+    background-color: rgb(255, 251, 0);
+    opacity: 30;
+}
