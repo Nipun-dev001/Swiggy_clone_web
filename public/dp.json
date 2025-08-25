@@ -1,0 +1,124 @@
+{
+  "restaurants": [
+    {
+      "image": "/images/full img/Pizza.jpg",
+      "offer": "Item at Rs.179",
+      "title": "Pizza Hut",
+      "minTime": "30",
+      "maxTime": "40",
+      "name": "Pizzas",
+      "place": "Jodpupr",
+      "rating": "4.2"
+    },
+    {
+      "image": "/images/full img/burger combo.avif",
+      "offer": "Item at Rs.199",
+      "title": "Burger King",
+      "minTime": "20",  
+      "maxTime": "28",
+      "name": "Burger",
+      "place": "Jodpupr",
+      "rating": "4.5"
+    },
+    {
+      "image": "/images/full img/fried-momos.jpeg",
+      "offer": "Item at Rs.129",
+      "title": "WOW Momos",
+      "minTime": "15",
+      "maxTime": "35",
+      "name": "Momos",
+      "place": "Jodpupr",
+      "rating": "4.4"
+    },
+    {
+      "image": "/images/full img/Manchurian.webp",
+      "offer": "Item at Rs.229",
+      "title": "Diana cafe",
+      "minTime": "35",
+      "maxTime": "45",
+      "name": "Manchurian",
+      "place": "Jodpupr",
+      "rating": "4.0"
+    },
+    {
+      "image": "/images/full img/full combo.jpeg",
+      "offer": "Item at Rs.299",
+      "title": "Mega King",
+      "minTime": "32",
+      "maxTime": "44",
+      "name": "Combo Pack",
+      "place": "Jodpupr",
+      "rating": "4.1"
+    },
+    {
+      "image": "/images/full img/Paneer Tikka.jpg",
+      "offer": "Item at Rs.249",
+      "title": "The Tandoor",
+      "minTime": "31",
+      "maxTime": "41",
+      "name": "Paneer Tikka",
+      "place": "Jodpupr",
+      "rating": "4.5"
+    },
+    {
+      "image": "/images/full img/paneer_tikka_roll.webp",
+      "offer": "Item at Rs.169",
+      "title": "The Tandoor",
+      "minTime": "33",
+      "maxTime": "43",
+      "name": "Paneer Roll",
+      "place": "Jodpupr",
+      "rating": "4.5"
+    },
+    {
+      "image": "/images/full img/Paneer-Butter-Masala.jpg",
+      "offer": "Item at Rs.239",
+      "title": "Cloud Kitchen",
+      "minTime": "34",
+      "maxTime": "44",
+      "name": "Paneer Butter Masala",
+      "place": "Jodpupr",
+      "rating": "3.9"
+    },
+    {
+      "image": "/images/full img/shahi-paneer.jpg",
+      "offer": "Item at Rs.329",
+      "title": "pali's Dhabha",
+      "minTime": "36",
+      "maxTime": "46",
+      "name": "Shahi Paneer Combo",
+      "place": "Jodpupr",
+      "rating": "5.0"
+    },
+        {
+      "image": "/images/full img/paneer_tikka_roll.webp",
+      "offer": "Item at Rs.169",
+      "title": "The Tandoor",
+      "minTime": "33",
+      "maxTime": "43",
+      "name": "Paneer Roll",
+      "place": "Jodpupr",
+      "rating": "4.5"
+    },
+     {
+      "image": "/images/full img/burger combo.avif",
+      "offer": "Item at Rs.199",
+      "title": "Burger King",
+      "minTime": "20",  
+      "maxTime": "28",
+      "name": "Burger",
+      "place": "Jodpupr",
+      "rating": "4.5"
+    },
+        {
+      "image": "/images/full img/Pizza.jpg",
+      "offer": "Item at Rs.179",
+      "title": "Pizza Hut",
+      "minTime": "30",
+      "maxTime": "40",
+      "name": "Pizzas",
+      "place": "Jodpupr",
+      "rating": "4.2"
+    }
+  ]
+}
